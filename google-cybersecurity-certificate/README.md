@@ -8,7 +8,7 @@ This section of the repository tracks my journey through the **Google Cybersecur
 
 | Course No. | Title                                 | Status   |
 |------------|----------------------------------------|----------|
-| 1          | Foundations of Cybersecurity           | ✅ Done / ⏳ Ongoing |
+| 1          | Foundations of Cybersecurity           | ✅ Done  |
 | 2          | Managing Security Risks                | ⏳ Ongoing |
 | 3          | Network Security                       | ❌ Not Started |
 | ...        | ...                                    | ...      |
